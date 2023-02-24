@@ -10,3 +10,7 @@
 ### მესამე შეხვედრა (თებ. 20)
 
 [პრეზენტაცია](http://www.sichinava.ge/appliedstatsr_eu_uni/m3/meeting_3.html)
+
+### მეოთხე შეხვედრა (თებ. 23)
+
+[პრეზენტაცია](http://www.sichinava.ge/appliedstatsr_eu_uni/m4/meeting_4.html)
