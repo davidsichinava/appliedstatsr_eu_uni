@@ -14,3 +14,7 @@
 ### მეოთხე შეხვედრა (თებ. 23)
 
 [პრეზენტაცია](http://www.sichinava.ge/appliedstatsr_eu_uni/m4/meeting_4.html)
+
+### მეხუთე შეხვედრა (მარ. 2)
+
+[პრეზენტაცია](http://www.sichinava.ge/appliedstatsr_eu_uni/m5/meeting_5.html)
