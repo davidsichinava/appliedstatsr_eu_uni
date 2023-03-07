@@ -18,3 +18,7 @@
 ### მეხუთე შეხვედრა (მარ. 2)
 
 [პრეზენტაცია](http://www.sichinava.ge/appliedstatsr_eu_uni/m5/meeting_5.html)
+
+### მეექვსე შეხვედრა (მარ. 6)
+
+[პრეზენტაცია](http://www.sichinava.ge/appliedstatsr_eu_uni/m6/meeting_6.html)
