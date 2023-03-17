@@ -26,3 +26,7 @@
 ### მეშვიდე შეხვედრა (მარ. 9)
 
 [პრეზენტაცია](http://www.sichinava.ge/appliedstatsr_eu_uni/m7/meeting_7.html)
+
+### მეშვიდე შეხვედრა (მარ. 16)
+
+[პრეზენტაცია](http://www.sichinava.ge/appliedstatsr_eu_uni/m8/meeting_8.html)
